@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saurabhashok
 - 👀 I’m interested in deep neural networks, data storytelling and creating applications 
 - 🌱 I’m currently learning how to gain mastery over life
-- Has working experience in Python, Elasticsearch and SQL
+- 🧠 Has working experience in Python, Elasticsearch and SQL
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me : saurabhashok93@gmail.com
 
